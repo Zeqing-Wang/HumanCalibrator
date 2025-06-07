@@ -1,0 +1,5509 @@
+{
+    "pika-de0d4612-cb70-5859-91ba-7b765b38426b_7": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-fc23cca1-7a2c-523f-bf9d-526c8ddeae9c_12": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-bf05bc12-bbcc-5653-af0c-28b3aab4086d_3": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-ef3a5c99-33b4-5c4c-9737-e80891691457_3": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-b60bc651-eb11-5298-937c-e35d5e87db45_16": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d1bf5dc3-70df-55c2-aa24-99bf8be8f8c2_7": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-8e43117a-65b9-51d8-9276-ac5b9bd1fb07_7": {
+        "absent": [
+            "hand",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-dcd7661a-00e8-51f5-a96c-6dd722477a87_10": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-13860c3e-09a5-5d7a-97d0-f03f154c306a_3": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-ab159472-3ee9-54f5-9e7c-2cb793a9756f_8": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-f61687f0-272b-5eb6-8fee-30c2a76c9ac3_15": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-daa9ab0b-df92-57a0-bd0b-8671296d638b_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-b1c79ca2-4988-5b6f-8fbf-e33f2d89e4fa_13": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-7bfbefec-bd2d-5ba6-81d4-432e9c3479fb_1": {
+        "absent": [
+            "foot",
+            "hand"
+        ],
+        "redundant": [
+            "leg"
+        ]
+    },
+    "pika-f3855fb8-8f5e-53ce-bd76-811b7f360bda_13": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fe76cd13-e14d-5e56-8dc6-079aee008797_12": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-af5ef95c-49ea-5cd8-8395-f637e2c2b3ee_4": {
+        "absent": [
+            "head"
+        ],
+        "redundant": [
+        ]
+    },
+    "pika-d39246fa-53e3-5052-a694-1330cdd5079a_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-0b55f569-1017-5252-9f71-3605a27ea101_6": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-0bc19321-70ab-5ae5-8711-af7d060fd123_9": {
+        "absent": [
+            "hand",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-fd9c008a-c12f-5b36-888e-0807acf178af_3": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-0ca32dca-9a3b-554a-9b1c-d6f48209251d_5": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-e72ffa09-3ff3-5c21-9967-9ec9d4b6f097_4": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-15192104-1e47-5d84-9126-bc7fac32f899_6": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-fd083ce2-7cdd-516a-83b6-64bf88ec831f_1": {
+        "absent": [],
+        "redundant": [
+            "foot"
+        ]
+    },
+    "pika-f92833b2-7cbc-5877-b26c-e062730a9f06_14": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ee155ee7-edd5-5ac2-80a7-cfdf089ced95_10": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-303aa421-96a6-5ebb-bcaf-7249c4cdd47d_7": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-9eb5188b-6a68-5686-a786-6b9280d04102_5": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-7f32507f-b097-5cce-abf3-030932f11b59_5": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0aac8fa9-e868-562e-86b8-d0692690d0b4_7": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-cdc1b949-7257-584b-abf5-8fa735503170_16": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-a08167b8-ce94-58ff-b62d-ba44380f88ec_5": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0e0cad82-70dd-5e31-9bc2-70f83fe5ec13_11": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d4ab2214-370e-5218-afa8-127445b94d40_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-e74b88c6-f918-5c50-bfaa-bc69bd9887be_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-c6a53367-31c4-510b-9b27-a388608b304c_12": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-e202fd6b-befd-534f-9fe8-453a20ea705f_13": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-aba92cae-75b2-5999-9065-0e280cbd44fd_8": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-5582f7ee-d51a-52ca-ab12-af65ab8883b6_11": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-b088b48f-5dad-559d-9be5-7d91feeb0cea_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-c4e505d6-a4b2-5f66-b7b0-a2692c3ab3b8_16": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-bd4777f2-3ec0-54a1-a2d6-de91bbf23bd2_7": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-1a1879b6-a41c-5044-9ce0-e6f5ceb5e715_9": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-b939b759-8d4d-5365-b2ec-28362f9ddc09_6": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-b7053bfd-43a4-5399-b86f-cfea7a4ecba3_9": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-c549f5ee-bfcb-558f-a425-b13e589633c5_3": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-85b2640d-cbd5-5826-82c3-95675bcc6777_2": {
+        "absent": [
+            "hand",
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-d0aeb8ae-b63e-5503-86fb-997d392a8644_7": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-f3d41b65-dff0-5f9e-8a44-370ac3c266f2_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-b443ad14-2961-5382-aad7-580d352c21ce_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-e830bdbd-4f0d-5f6b-9ad7-6cfdccb6f158_13": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0d045cb5-ecd4-516c-8cec-fd6a10303f89_8": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-ac80c7e1-f1d5-5bc6-b8a8-e58a438b9d4b_2": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-bad606fc-a00e-5bb7-9281-9e02424d43d3_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0556d485-f341-5c1c-9883-e6f8594bc1be_9": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0a055eca-bad8-5539-802a-9aa6a7bedfd3_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-db964834-11da-5348-a80f-eb454407d5d7_15": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-0a193192-7451-5d10-979e-b5053296ad25_14": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0eaabb39-34af-5b02-b7bc-47442a657d4d_11": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-fe9f1449-5420-5d1d-9035-1f3b8425239d_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ed43a1cc-b419-5f77-8f86-8a30ec2c2291_6": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-f02adad0-8969-5e35-a90b-cc1edf390e44_14": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d2725ff0-5a64-55b1-91c6-3b950891e284_8": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-b51f9b2d-0536-5abd-82ee-7535b2f7f3ba_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-ec3bd154-67df-5ee1-b95b-7571864503ff_5": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-f5519e8d-0f9f-5f49-82a4-8f2179a832e3_5": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-530d56ba-cc50-5cef-9f0d-6386e4b824d0_2": {
+        "absent": [
+            "hand",
+            "arm",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-c5db2ee6-64c2-5c3c-bf65-f372dff0007c_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-feafeffe-2012-5551-8c7e-cd30634f3020_4": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-be12b930-add4-537c-abb3-74a6c00fc0e3_15": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-24b7b985-7d3c-588a-a530-ada995fbcddf_2": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-7ad8ca28-ce4e-5f92-bbe9-0d48a4981c72_16": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0a60febe-4b05-56ae-8791-8876464d898b_2": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-ce96d1b3-f0b9-5e1e-8693-24217ed08438_5": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-517e1839-1e6d-5fe0-aae7-c3e3caea206b_9": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-f7bb7c4e-4571-5c86-91b7-651dbbb0ebb8_16": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0a199733-02a0-5cd6-afa9-a7174c8f97f5_12": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-dabcf7bb-0dd6-57da-b759-3ebc3c78a2bd_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-67669905-f47c-5386-8967-26ca24a5d121_1": {
+        "absent": [
+            "leg",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-bf9637d9-235a-5778-b4d4-aff04e66d290_2": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0f3cc529-7878-5667-81ac-6ab14e713da0_10": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-c48b4321-f16f-5c1f-8153-97873473de64_5": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d38bde10-d2bc-5892-a113-aa123e36cf73_5": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-e9fb04c9-7865-504c-9b64-b4075bfc80f2_5": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-e2d91f73-bd17-5ee9-8a64-fbb66d9fa86b_11": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-e61cea31-0db6-5599-91c2-d5347aa9db17_6": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-853d9a33-6de6-5fed-8850-9a24849bd0ff_5": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-0e15bfb1-cb18-52e1-aa5a-49cdcb94f331_11": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-fb2239db-dbbd-547a-bd77-a285c74bacb5_16": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-c096dcef-e464-5a17-9722-b0da7c7d633e_10": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-9db63a65-94d9-5747-8558-ef162a47868a_9": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-54ba9da7-460a-59b4-af5f-c29f1e26fa18_5": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-31026f5d-d520-5c6b-943d-c7bbaa4a877c_14": {
+        "absent": [],
+        "redundant": [
+            "leg"
+        ]
+    },
+    "pika-ddd18c93-1c25-55b8-931b-dcfe354b6b8b_12": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-b85d9edb-97ce-5783-94ff-676860235d1b_5": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-c8a59c6f-cba9-560c-aebd-4410d83525ec_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d9398118-0a38-52bc-bc79-4eedc04b0e51_5": {
+        "absent": [
+            "foot",
+            "hand",
+            "eye"
+        ],
+        "redundant": []
+    },
+    "pika-4e9f9701-dff9-54c6-a38a-763f6f06ce67_2": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-8d7ece46-753a-5aa5-b6f2-d4a0adce0b4b_7": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5c9acdfb-c004-5bbc-bc65-c99f9dc0d9e0_6": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-13a5375b-7c79-511b-b3db-c376f5734900_7": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-bad5abd4-c1ea-54db-96d1-d0c21691bf79_14": {
+        "absent": [
+            "hand",
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-ceeb639e-001f-5bb3-a177-3ad43bd8056e_14": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-3dd235bb-0cda-560f-8d76-5092d4574c86_7": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ff2ae7d8-db32-546e-b8c3-a0e757e41983_8": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-384dec35-518c-5aab-9e26-179e9a6743a3_8": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-6109d0f2-0b1d-577c-9c93-949407835839_3": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-d3c70b18-c436-50bb-912a-bf835b52700d_9": {
+        "absent": [
+            "hand",
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-0ec93078-923a-5ac0-aa21-298996d51b85_15": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5162c6c9-2fa9-5246-a5af-6ac7223a4e00_9": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-e604b9e2-5e27-5a1e-9e3a-57a4d54e529b_8": {
+        "absent": [
+            "foot",
+            "leg"
+        ],
+        "redundant": []
+    },
+    "pika-0d2a52ce-a174-5c7e-a888-1ff3ac988eb4_6": {
+        "absent": [
+            "ear",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-8ac3e7c1-82a9-5372-b775-0604bf9ab43b_13": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-f3a96632-39de-5689-80c4-8a5aeb8a7e0c_2": {
+        "absent": [
+            "head",
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-84667536-c325-529d-b43e-4a88af1c8107_3": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-0af93cd1-8cc2-59e7-9810-4450914ec27d_4": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fd432acd-4992-54ec-b6ab-00f0c8c6644d_5": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-d5939810-6152-5e92-849f-55b3785568ec_6": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-b1cfe7c3-c484-55e1-816e-3027490529ff_14": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-d0b45726-67a7-5836-b613-91fd2a2fe891_12": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-bcc6a27d-dc84-523b-9d97-aacbdee24878_13": {
+        "absent": [
+            "foot",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-c744d23b-ec19-5d41-900b-0d3dacc2b278_7": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-ed7bcc23-5afc-5d92-9e69-751a52abf141_16": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-3d02ce7f-27ac-50c4-80ce-ad758e995f15_6": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-e464d8ca-29df-536d-af71-b71eee2cff61_11": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d244e29b-6b22-573c-ab52-98b5e795664e_2": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-ce6974d8-fca0-5636-9716-72fd479f0ca3_5": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-a70fb1d2-6d1a-58d5-9474-d5fd190f53f9_11": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-c511c1e7-6a36-53d2-b441-6b82ad1ef9d5_14": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-ed953b5f-2435-54b5-a015-98261b2453e0_11": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-0b411727-b31c-5da6-98dc-462eba4468bf_14": {
+        "absent": [
+            "hand",
+            "foot"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-a70f0ef2-cd1d-518e-84fc-bf9b1a7eeef1_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-ee2a64b6-8ead-54ec-9062-57b8c7a4ff35_16": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-ad899520-44a3-5b8d-8cbc-29f5cdeeb3fc_2": {
+        "absent": [
+            "foot",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-0a5d714a-3feb-54e0-88fa-60671605b61c_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-a801750b-35ba-5f11-b6b1-46355c1a4463_9": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-a6c6a501-1f3a-595f-8b96-5253492eab15_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-e33ee30b-443d-5bcf-80d9-e5b2d18e2445_16": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-db769267-3ee3-5238-b076-658407b2ae2c_3": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-c3f62924-0ec7-5cd0-9832-682acb6e2c9b_11": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-8998ac10-b2e5-56aa-8c2c-62d561f15f1c_3": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-dad1789e-885c-5a0e-b5c7-3dfd53e09a8b_5": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-0b5bbafa-9c0f-59a3-a1bf-f672a816cd4b_11": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-763487c2-0b13-5684-8cb5-db69bf8dc093_9": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-23433216-d13c-5d21-8c8e-378aeaaf9708_11": {
+        "absent": [],
+        "redundant": [
+            "leg"
+        ]
+    },
+    "pika-492ead78-e11f-5cd7-89b8-94777c5fd873_14": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0c34e160-a98a-561a-9169-28513ebab001_8": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ab7de343-5966-5f40-8294-1e30060cdfa4_14": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-675018dd-fe0d-59b1-bf58-ee24405a0706_9": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-cd00dedb-d62e-524e-82de-35eae349ef65_9": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-940d4726-51b1-5597-be8e-74f62c9dceae_12": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-c6b32235-bb9d-5f78-a524-6ef1845a1d6d_15": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-bb7f6d2d-9cf3-5858-b54f-7afb28a1d295_15": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-ab854d41-c07b-522b-af85-bb8b5a262705_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-0a29c91a-5b76-5e64-b588-12726cab8649_11": {
+        "absent": [
+            "hand",
+            "arm",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-b70bfc0a-802f-506c-b311-98bdc1057557_15": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-eee8618d-80fa-5b9d-aeb7-b9a4ef1da9a0_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-4f04c124-8984-537c-bff9-f2e7291680e4_8": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-00d8da3b-368b-549e-8616-f0ff33f1670d_5": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-6969264a-be90-584f-b5e4-03fdaf1e4c1c_3": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-a3022b2e-1d5f-5389-8e4c-3ab3ac1e692d_10": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-87e0ed55-db91-5547-b428-b05fe1f2be7f_9": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-ba5cff23-f689-5586-b57f-1695b7c31ce8_1": {
+        "absent": [
+            "eye"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-a76a9709-999a-561f-a5ec-b3ca0fa323b2_6": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-c4a103ca-e001-54df-af16-5c97147a8032_3": {
+        "absent": [
+            "leg",
+            "foot",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-d1e8e465-40bc-5626-90d0-7db9d6dd43e8_3": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-07ba156e-82e1-53a8-9c40-76de0d19c90e_6": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-5122be81-0424-559e-b36a-f8b151b5f8f8_15": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-87de9f3b-784f-55f5-8399-77b8fd68eddc_8": {
+        "absent": [
+            "head",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-d5d8ffe9-45db-5d44-bc55-bec6ee8f99d6_5": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-d6f55b3f-3cc6-50fc-b0ac-36f394058430_10": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-9894e0e2-f521-527a-8bd3-1cd49ba9fecf_7": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0dd5e53d-5c64-5af1-8991-099f5800a356_9": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-9afba595-00d3-52f9-a046-b03c2acfbda7_6": {
+        "absent": [
+            "hand",
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-12416643-604d-57f2-8234-726c9ab28807_8": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-fe8a24ee-fe62-5da1-a6b8-1ae75d245abb_8": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-1fc59771-a228-5ced-b63c-4cabf3cd9975_5": {
+        "absent": [
+            "eye"
+        ],
+        "redundant": []
+    },
+    "pika-c62cecbf-d71f-5419-9eaa-012e286d9e88_6": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-a21eb21d-7c73-5302-b179-43bc4853b0d6_15": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-e6168420-c925-557a-89d7-2bc3ee7b9844_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-4e755b8c-e57a-567b-9a5f-1d2b3e68d9ae_2": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-ffc99fd2-3851-523d-8897-9561af2445d6_12": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fa6649a9-3657-579d-8851-4d54702cc118_15": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-a36efd7a-0840-50bc-8494-5b8b4afe07ac_16": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-eceb71a5-35e8-5bf4-853e-63d9c9822b35_13": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-effd40e7-ad31-5508-809c-ed2f44adfd64_6": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-dd27560b-a477-517d-a085-8529b1c6b881_7": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-3a146b45-6f50-52ee-bbe8-4e6a058b93f6_4": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-bd0034af-6c40-5713-8724-f3ae289f778a_15": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0a6fe9eb-082f-58ed-a68f-f87d538727d3_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0d74c41f-69f5-59ea-b5d5-de716b6952d7_1": {
+        "absent": [
+            "hand",
+            "ear",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-00e7e456-a836-51f2-a4b6-3f5c55df3c83_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-00fc148f-8685-5b55-b4fb-8de923b5debd_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-01c05e56-b058-52fd-98ab-b28b7610d341_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-1c123527-21f8-52c3-a09b-52b1805ccab2_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-1effc363-3bdf-514a-bf16-93ad8c4a6686_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-03ae7390-8c81-5749-ac9f-2fffd1ba92b6_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-3b0c413c-fe82-54b0-9d42-e2207b9a2836_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-3e8340fb-a8fe-5749-b049-2c0d1129b282_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-3fafdb31-0b03-5e87-8d25-7f64fcbaa250_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-4cf5f77d-0142-583e-8778-eaa967fd6b28_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-6fab60be-5f77-5994-8712-db2a79820403_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-7a15ee87-fe22-5396-b863-e45ffd7d14d3_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-7a904a00-fbcf-540e-a6ac-d01bcdd0558b_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-7b7e5b1b-6f75-50c1-b193-a4a1449c0fe6_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-7ba39dcf-dac4-515a-a570-2c45e4ef9a4f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-7f8374e1-bb55-5f91-b5a8-62546490a3b1_1": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-8a5f442e-8975-5a36-88be-e8afad52e228_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-08aa3ae3-bcf5-5476-ac83-cef62ea8d2f7_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-8c161a8f-08bd-5ea1-9290-e006492d5121_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-8c625353-a0e2-514e-8a98-d5fd73696095_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-8d025e1b-ba59-503d-8e67-4334e2e7ba8d_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-9e21eaeb-6b4e-59f5-a988-97912e201388_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-34fd3904-3c9a-515c-a1ae-6d214055a829_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-35b0caa6-0fe5-5406-af76-30b05fe62cee_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-43efe3f0-4744-5058-af79-42bac5854212_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-51a57b9b-6549-5c44-85ae-980859188936_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-79a15dc2-8fbd-5295-87ab-6a41976b64b7_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-234c5432-2604-537d-ba78-b0d938f6027f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-253a534f-1218-561a-b4ce-6cb6015c3450_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-319df9e1-ae60-5654-b6f4-555120543fea_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-386e8468-2ea9-53c2-9aee-a61b13520881_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-392b9b74-ee78-5019-b754-a09c1cbba1d8_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-439dc809-9c0a-5703-8484-31b91ca5883f_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-459fa19e-f5f0-559d-b8de-38b2b4d91780_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-499c57e7-5948-51b8-af62-6895f2807f16_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-509ddc87-6d9f-5402-ba91-664ad0528f07_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-727c3f18-ae44-59b0-bd06-75874bad9d64_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0762b76f-c928-516b-96a8-c42679ae75fd_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-767d86fe-9319-56c9-ac3f-0e675146b6d8_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-811b345c-a9fe-5a12-b405-54e879f65f53_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-820afb2d-1f60-535c-9a39-c0fa4c2e0318_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0822c188-fa12-52a8-9e2b-677e924bd851_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-869ac533-c9dd-5dd9-bfdc-032971009543_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-963bc74c-0812-5675-bf37-d060f3ed20ae_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-990b2cb7-c1ec-598b-ad08-25e571278590_1": {
+        "absent": [
+            "hand",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-2291d9df-95c5-5a4b-861f-d4bb3f902a73_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-3297fa94-efab-54d8-a691-4cd0cbcb46d6_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-5415f405-80ae-546f-9dbb-9f56c6f48c8f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-6144c911-7fd8-58dc-8651-79b691633fb5_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-6293ee63-b918-5a7d-b729-302b315d33ed_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-6506d7e6-2de4-5944-ae07-00d8e1d9504c_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-6784b826-8dd6-50f4-85bc-c102f683efb8_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-8055ba85-b163-50b4-8e80-baa170482544_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-8335ab88-81ba-516c-bf1c-575e5b2a6eaa_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-fdfb1c90-e1c6-59aa-9687-c5d97f7a81d4_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-fdfaa902-3b71-5f8e-8d4e-5c0487ea59f0_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fdcec4b9-073b-536c-a92b-e48d426989d4_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fdaad814-4bda-52bb-9c21-8a7dab132a62_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fd3c0316-f7e0-5aee-92a2-60dd321a042f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fc817457-39d8-5a4e-92b1-13c5864805cc_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fc5ee852-e7f7-5dbd-9bfa-9af3af2f5a39_1": {
+        "absent": [
+            "hand",
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-fbd724b6-c3a1-55e2-b6fb-2fae98099cc7_1": {
+        "absent": [
+            "head",
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-fbd1f2f0-8564-59eb-8c2d-19b8e394f1ef_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-f2553878-fabe-597b-aeed-778e977bcde9_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-f062283e-2609-5a11-957b-77e39198f427_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-f789b08b-dc76-5582-b3ff-56239a68536e_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-f6c40302-7be3-568d-b6d2-92ad60303862_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-f3cc61c0-798b-5ea4-b542-792ca7139f8c_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-35927bfb-214b-59df-a009-8573a3414e14_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-53263da6-8db2-5e82-b1d2-fa603c172fbd_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-57883f74-be68-56cd-8bfb-58a0f8cce3ef_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-493103c5-eb14-53c0-8555-93a22766bb1a_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-695718e9-b358-5633-9efa-fd161f7c9131_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-709245cc-abad-5204-953c-a0a01525aadd_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-88107520-cc83-5fc4-a5fa-3e1e4a641256_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-90607456-bb65-526f-9d87-44bae2efb43d_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-97658657-c2bc-54c9-abe0-fbf40335acd9_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-a0b7e064-3ae5-5fa4-ac6b-193467042bc6_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-a3aaea30-673d-5d00-8393-cf3a3613df5a_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-a4efaea2-1602-5595-811e-c5049593a4bf_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-a24e1cab-ebd6-54ee-9174-c409cfe04828_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-efdcd3d1-1be3-56d0-9b7e-06f3753566e3_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-edfd55ac-be83-51cb-b1aa-cb0f68d18e18_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ebbe3e8a-9524-555e-a9f1-fb0983b62b0f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-eb212951-31bc-55b1-a6a7-14216eb15623_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-e073a951-87b3-5157-97bf-ca94563ba139_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-e0b85ab3-05b0-5178-8057-d4873b9f43c5_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-dea154d2-2d61-5c88-848a-d24aaa79a6cd_1": {
+        "absent": [
+            "leg"
+        ],
+        "redundant": []
+    },
+    "pika-de6172ff-dd9a-535c-b194-7dfea1c54c81_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d99376e4-7dee-5018-aa06-2853ba53d6b2_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d66eb36b-c617-5b19-bf07-6b15ca512007_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-cc44c577-dbc7-567a-a4f5-2bc58dcfd082_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-cb11f676-da4d-5f39-8f02-dff0a45ca31e_1": {
+        "absent": [
+            "hand",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-c4dbafea-bbb7-555e-985c-d3f712e401b0_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-a50e368e-dd77-564e-b630-e36d266afecb_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-a708b87d-389b-5e78-8434-08aea9baa58e_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-aaeeabfb-47af-5617-af5d-bcfb341c3691_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-ad573f6f-c00c-5628-86bf-ca4705af7e87_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-af461354-816e-5e81-90fa-4c0c58405f6b_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-b0a383c1-c033-599e-89f6-8e2ccc18bf8f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-b1bde628-f883-54aa-8d55-0028d88077bd_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-b063df5e-847c-5438-aada-a66bbc8d5d17_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-b82ac579-f7e7-59e0-9e9c-f09c80e79c0b_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-c1cb3b70-ed11-5698-a87e-b1b381f3b7d4_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-bf9a71f1-f46f-55cf-ab38-11ef97fc3284_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-bc891f4b-1b01-5dda-bd80-0c0a14ba4ecf_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-b463e318-7974-5045-9428-bbdc973235d3_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-b96b0ae0-3b5f-58a8-8b4f-e346a35a8472_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-84d64dd1-2d02-53b1-9434-c17408faee26_1": {
+        "absent": [],
+        "redundant": [
+            "head"
+        ]
+    },
+    "pika-0a3588fd-5215-5a08-a66d-0afe8130501a_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-0ae49bcd-a76b-5da5-bdda-66ae2494711c_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0dd74b41-8211-522d-85cf-854e82782f69_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0ddd98ff-33b5-597a-bd8b-b6dc7319b93e_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-00dfcb35-1d65-58c4-85c9-eceacf558f95_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-00e3e4c2-9f2f-5db6-b4c7-3369a709af00_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0f6f71fe-4282-5676-a9db-1dc6d609d329_1": {
+        "absent": [
+        ],
+        "redundant": []
+    },
+    "pika-1fd5043c-4d00-5560-a708-27c63f12b4e4_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2d1c6eeb-183b-5872-9229-6036ba8be71c_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-3d6f1f90-ce47-5d5e-b7f1-cd200b91575a_1": {
+        "absent": [
+            "hand",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-3e74c8e1-07ee-5457-a5ff-f5516b8cb561_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-4a964678-4107-54b5-b9ec-9f194c65ca78_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-4ed28cee-0b97-54cd-a86e-b8f6ad1e6e63_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-6b1c5f97-1c93-541a-b829-402dcfcdb365_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-6b102a18-edb9-5e2e-85bc-8cc022767bf4_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-6f799643-7a4e-5451-a1d7-602b68113ef1_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-9a063191-df5a-5382-9a96-191377bd3a06_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-9e6b6d02-db24-589a-b2da-64988a690816_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-12f77779-1ca3-5bda-984e-f3a0b95fa447_1": {
+        "absent": [
+            "hand",
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-23b39242-f940-5126-91fc-ee875476af6a_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-23f31f5b-8bc1-5c63-856c-1f0aa150b84d_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-30cd280e-7342-5dd0-84c8-d7b93dce4ab6_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-38c6273b-0777-51b2-b620-790c3018ce0f_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": [
+            "leg"
+        ]
+    },
+    "pika-42f6ddb1-7d4d-5337-bc74-45e6e714274d_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-46c1d1e8-993c-5cc5-8a8c-f1cf22d29aac_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-47c1d478-af21-5fee-94b7-d638fa2c4d72_1": {
+        "absent": [
+            "leg",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-049c6472-3e2f-5539-8faf-aca98632e5f6_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-49e773b7-69dc-58ee-a009-ea05f3b5d34d_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-49fe64a7-719a-55df-addf-c843b870d52c_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-0054b6d5-1b7a-5fe1-b9e6-d8f43237fdab_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-60d86a98-9036-5eb8-8ae2-239b791a4650_1": {
+        "absent": [
+            "hand",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-61b0ac89-702c-51ee-80bc-ff130631ff40_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-72abf28a-1fa4-5aa5-9f7f-17e672f6fd50_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-085d26a8-ca7a-58c8-bc1f-a213bc0e13b8_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-093ddd2a-434f-5fbe-85fa-b5af0c785982_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-95dce862-f10c-5742-b55b-54310913c678_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-99ac3739-eda0-5269-906d-cad301f04f4d_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-99af0cba-a0b1-592e-817d-bd11a653c0a7_1": {
+        "absent": [
+            "leg",
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-99e27926-62d7-5403-b0e8-a1c1e8113f9b_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-352bef2e-b007-51ec-84a8-f353d9499be0_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-484a6d5d-1d1b-53a7-8f40-821dec36b119_1": {
+        "absent": [
+            "ear",
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-0490f5cd-c57d-5a06-8812-05a86f834859_1": {
+        "absent": [
+            "leg"
+        ],
+        "redundant": []
+    },
+    "pika-507d85a5-44e6-5012-bd21-497c59ac30e1_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-561ba42b-9fc4-569a-8980-23282a355184_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-833cf489-e13b-5b74-86f8-97370d6a92fa_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-897de426-8adf-5e30-8772-b6d134115277_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-949da8b7-7a3e-5750-9c85-3527e5ffcc6e_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-4107ac41-bd6d-5b2d-a77f-daa4cfd27765_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-4310a25c-a101-5656-8cf4-1764fd05e9e3_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-21836bd7-a9dd-52bd-bdd3-b4f5af818741_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0077080b-173e-515e-bed2-9e28a5c9f900_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-192944c6-408c-55b7-b992-edd25ce1bf59_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-732930dd-777a-558d-a8ea-52b64549049d_1": {
+        "absent": [
+            "head",
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-889569e5-df12-5b16-b1e5-2b6c15dd75b8_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-2941251d-ef7f-5e02-b28e-a6fce975e6e7_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-3137897a-14b1-529d-bbc0-974ab5371253_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5358265f-a0ef-5e30-bc0c-8c98b6da670a_1": {
+        "absent": [
+            "hand",
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-8491462c-e52d-5ea1-96a5-2486de121fde_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-9047481c-b47d-538f-ae42-8f557912baf4_1": {
+        "absent": [
+            "leg"
+        ],
+        "redundant": []
+    },
+    "pika-47486208-ef8a-5b98-9f09-2f87319c0755_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-58115228-5d12-53bd-b23a-5d7451442dd9_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-93608586-a0f9-55da-ae49-db3692ecabe9_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-a6858a7a-a365-57ae-aac2-3cf6dc3e540b_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-ab93b804-cdd6-57a0-968f-3f539a48d2ed_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-abf210b1-dfc3-5545-86bf-e58b22345c75_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ae1587f4-3e47-5bdc-99fb-d2b44ba0c964_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ae5177f6-c6c7-5e01-9690-66c1d6737202_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-b72392ab-96a5-5bf9-b7cc-7bd6c7357348_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-ba901488-5fa1-53ce-a300-05736cfd838e_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-bc87181b-4adf-5593-8018-7f7c5228b2cb_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-bda6c7a2-07eb-5cbe-a441-c74e8027cba3_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-c02b8c13-8f9a-56e3-a428-5f37bcbed456_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-c6abfab2-9f4e-5e2b-baf3-b70e775ba13d_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-c16fc508-c081-59d7-8a01-9bd2a42508d7_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-c52d2868-c4c3-5015-bd7c-bd906657cc04_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-c58d171f-ea4c-5c84-8b50-77d8936c84dc_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-c7519842-1706-5775-925c-3bb4b9d5dc4c_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-cd5e7cfc-aade-5d58-af34-8d6fe57600eb_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-cdbbaee7-5fe1-5f17-807b-3d59a49ea14b_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d0c79c58-deb4-5f24-8551-d40f3ba42802_1": {
+        "absent": [
+            "leg",
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-d7a1c357-9261-5a8c-8dd0-9bba8db3f0fa_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d22cf3f3-64d7-5e31-ba8c-09abd6fc8e33_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d50d8305-dab1-5bdc-b8d3-ba4ed1590354_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-df556ec3-61af-5605-ad91-3e073d2d4589_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-e0dacd98-5b8e-5eef-88a6-6ae894a19cae_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-e7ce7277-5fae-53d3-9cd5-df0eadcedc83_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-e29918cb-562d-559b-9098-c159dc8ece04_1": {
+        "absent": [
+            "arm",
+            "ear",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-e061977e-2c7e-527b-8526-ef01aac2343f_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ecd9c6f4-65f3-5e11-8f7d-e3680e064600_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-f66f1e90-dd9b-53dc-8b2c-bc70693674e9_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-f83d9efd-2961-5dfc-8666-7cc854a3c680_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fdb7dc32-a677-5f0c-a7fb-2ed86a8129fa_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fe7b5f45-c724-50ed-968b-5894bbec31cb_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-ff9f3fc0-89b8-50eb-8815-5bc3e20e3c42_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-e6f3b228-27d5-52a5-b012-9eaa9cb1840c_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-e6fa8982-8636-55e6-80e5-979d1baee057_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-e6fb7d10-916d-519a-bc26-2b5b9429efda_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-e39d7677-6a2d-5908-bd7f-88c853e716ab_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-e9631662-301c-53b8-a25e-0fb7bd596137_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-ea29d977-93cb-53c0-9403-3fafa747f2fe_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0b1c58cf-1622-5463-9b4e-e2561a7da81a_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0bcfce92-18f3-5c5c-8a3c-32ffdb2282a5_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-0d324cff-bc87-5682-93f8-f5bbd89628d3_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2a7a88cc-1dd9-5fe6-9bf3-c1574a055e1b_1": {
+        "absent": [],
+        "redundant": [            
+            "hand"
+        ]
+    },
+    "pika-2a56a448-a5ba-5608-8344-085ef292e3eb_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-2b3c6d7f-113a-5c9a-a10e-25b3ad346b5d_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-2f9b2de4-4691-5e83-a2a7-7131fb4b3af1_1": {
+        "absent": [
+            "head",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-3a73b349-e35d-5961-9928-ee73f931c95d_1": {
+        "absent": [
+            "hand",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-3e70160d-b527-5d62-894a-007e5595328c_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-04a4be6b-a781-5787-bd6e-c4370668fb52_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-4d17a769-15f9-56f0-8e31-1a50301df021_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-5e363910-41af-54f6-a3d8-a9ff38f55495_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-5fe86081-1518-5199-8d5f-b498d2921bb6_1": {
+        "absent": [
+            "head",
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-5ff76655-91fe-5e83-904c-20ba36fedfbc_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-6c1dc988-343c-5d81-810d-3e2251432c1b_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-6d249f6f-e238-5976-9090-878c0f8bad8e_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-6efcc506-4b7d-5213-8862-2923f54e83a3_1": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-8f096b9c-421d-553e-85f1-9375492c7f24_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-9cb7de86-842f-58cf-b281-f9d311447294_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-9d1fd011-e0ff-584a-b899-d60e5b5d3559_1": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-61face34-c04b-5be4-a54f-de7e2ba01c87_1": {
+        "absent": [],
+        "redundant": [
+            "head"
+        ]
+    },
+    "pika-67feea23-fab9-5d64-8b62-eccc3b87c73a_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-73caa75d-fbb6-5096-9b6e-50384ad2d183_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-87d31232-d6ee-5c76-80bd-c11ee80c72b5_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-731bbf41-9b2b-5e91-9f49-51fb07d89378_1": {
+        "absent": [
+            "foot",
+            "leg"
+        ],
+        "redundant": []
+    },
+    "pika-5196b468-cf62-5122-ba8a-99ff0fe9aaf1_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-7630f81e-492e-51f7-b8cd-a10047dd627a_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-9202e744-4c27-5395-8ebc-f8264b050a9e_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-a14aedf0-b24b-5df4-9084-b8d7b3987248_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-a41ee1f3-445b-5727-8963-4f38cc284ba8_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-a83df573-5718-5e54-b493-74efe6d0eba7_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-a682130c-47b6-54ca-81eb-4fab07f777aa_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-a8990578-14b7-51e8-ade9-15b692b837f6_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-b67bae1f-b13a-5614-8512-139c0f052c3d_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-b8585cd4-cf75-57a9-a9a0-e4409a095510_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-bc0ad663-0bdd-5a0c-910a-1be0491b4d93_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ccea62e6-aefd-5c2f-b058-dde524edc8bf_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d240db5a-492f-5afa-a8b1-493fe5eb113c_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-0a66be5b-edab-5215-8f86-348afba7627d_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-0ba201bc-3c3c-59fe-b90d-e69d508a29c5_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-0beaa02e-af80-5a6c-9a2c-aa77956e182f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0dfd03ee-464e-5c4e-8831-99e293b5f01c_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-1a3259f1-aec8-53fa-beda-b54b9881c63d_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-1ae04f0a-e1a0-5657-9fd3-cfc4f871191c_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-1ce479f9-9c0e-5630-a792-e39fbc12e292_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-1d5ec98a-6fb2-51b0-8df8-291fb4a09072_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2b3ad6c7-107b-5d04-a407-062797cc966d_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-2e121be8-3414-5e35-b84b-5b051ebb0aeb_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-3d0b444b-3e00-524f-a139-19f9f7b981c8_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-3f3d6974-e28d-5e03-9bc2-1ff9376a5a58_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-4a9e6071-d11a-52c6-8be7-fd5011cede28_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-4ccf35a6-be79-5110-93aa-5b4016829286_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-4de8db0a-c492-5637-b6d4-6ed5fff5a7e0_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-5db57ac3-d067-55a3-8723-a1be286fd7f0_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-5e14aeaf-87f7-51a0-9dae-1efa203e337d_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-5f91cf1e-ceb4-5627-ae33-2612fbcb85ee_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5f54345e-52fb-5882-bd25-3e256c528b59_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-6a7fe4ce-c533-5a61-ad53-cf25979b396c_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-7b0274e4-32d6-5a98-b903-56f2e223ab05_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-7bdc721a-d384-593e-8099-917b9f1bd32e_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-7d61fd65-4f14-58c6-92c0-942acab0b627_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-7efa6694-d400-5125-b48f-12bcf6eb68a1_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-8b8b5718-899f-501f-ba6b-6c7f9558be00_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-8b370211-a040-592d-828a-7ac058efa5a3_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-8c4dd1b4-6ea4-5b02-8966-caff7cea7cdf_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-8ee893a7-0deb-5296-8b66-5e8ec7ba332c_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-9a076278-dbc5-573f-9001-f16b5da2adfb_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-9c667f91-d642-57d1-ae76-ec2e70a469fb_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-9cf7bcf6-d727-574a-b6f2-ae8e079d3cf1_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-14a74c5d-0d3a-58e6-ab80-ffb050756018_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-18e3c1c5-221c-5720-80b6-fdac34e8aed8_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-29c812ab-7820-513f-b989-ef4bf1225a67_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-35af3d82-5fc3-5d96-9daa-e4d53a7fdcc9_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-41e1c2a8-8407-5897-83e9-21ce5fdbb10f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-045c23f1-fcde-50c4-932f-e7bc017bbecf_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-49db1ca0-b444-5f78-9460-24a11fea9450_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-68bc6f92-bbf7-5b1c-9b2f-8e6859d1db05_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-69e670da-4aa0-5c18-8535-98dece16807b_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-77c0c6f8-a145-5f1b-919f-a9358d591313_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-92cac6c4-be07-53c1-af1d-b34e8ae847d7_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-94fb42ca-a830-56d2-a482-2bcbb2bb0454_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-99d313ed-7993-577b-9b0a-59ccd96686c0_1": {
+        "absent": [
+            "hand",
+            "foot"
+        ],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-0109cfaf-3bc8-5a31-a4de-bf3c4d16c05f_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-152f0cb1-2487-536c-a0cb-72cca6869d89_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-206b528b-4000-5665-a5e1-4fb6b3f6d6e5_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-324b72e3-2f5e-53be-85e6-f99b2134172e_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0331d4ab-8da8-5fcd-8590-a25b1cb32c15_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-379ef798-c86c-5768-b8d8-9769c94bc5c9_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-399eee6b-f6cb-5047-8bed-ac1fda8006dd_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-543ff6a3-e1d6-562c-9689-6562450bab25_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-562e0937-bfa5-5b06-b278-52988913be6e_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-664e0d97-db5c-55f0-9acf-579c7893b24a_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0728c5c6-f5df-5096-9158-ad6f2029bf1f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5198dcdf-1249-5408-ac17-f394e9b8bbb3_1": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-6261ed7b-0b07-5c87-b70e-b7c4491c9e89_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-7625d355-31ff-5142-a805-912ab34a5544_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-29420bf2-6451-533e-bc7e-5675cc9ea204_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-37086d58-7982-5f5e-aa3b-811b35270ab6_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-87439c17-d1d1-5773-a075-672260678aa4_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-90033e78-784a-5cf8-9ed7-c1e9f613bb5e_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-172310d9-e4c6-58b0-b39b-de649625efd0_1": {
+        "absent": [],
+        "redundant": [
+            "hand",
+            "arm"
+        ]
+    },
+    "pika-518160c9-b2e3-56eb-8980-aca2c0547036_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-827607a0-4f39-52f8-a2af-cbbca9e29e46_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-65600379-6653-5d36-a36d-d6db009f4979_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-75991150-2ace-5f59-a01d-32cacd1f822e_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-87646759-73d9-5bc9-b8a2-30154e09ff86_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-a4cfd0e4-85fb-5b39-a016-847f777dd796_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-ace8a05f-ae2f-5672-8bc8-87eeaaa062de_1": {
+        "absent": [
+            "hand",
+            "arm",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-af36197c-3a0e-5aaf-a463-82c211cd6ff5_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-aff3b7c3-6afa-5dca-84e4-75173eea8946_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-b6d684be-d954-51d1-ba0b-a45b8abdbb83_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-b6e5ecb4-d308-59ee-a31e-1d2641f99ee4_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-b366fe55-0876-5a31-b0bc-ca29a92526b9_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-b405ecd5-1221-5a67-8235-07fcde9a128c_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-b503af28-48e4-5fdb-8c0e-f18a5460eda4_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-b814bcb4-fb2f-50b9-9003-5e15c64eb671_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-b6573e39-8c86-52a8-98d5-68d454c84432_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": [
+        ]
+    },
+    "pika-b49740ab-2073-5ed6-ae70-12ed39bfe6a3_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-b7046903-a1e4-5dd1-82f9-509fee370e91_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-ba820867-d54b-5d0b-8abb-7f8fa483d690_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-bae7d346-5e24-5c6b-b004-c2e84ad293a2_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-bce8be6d-ad6c-5d41-addb-178b5d2d31cd_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-bf41117b-efa7-5f95-9fcf-4b1358bdb877_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-c9deb702-089e-54e9-9e27-d703518d52bc_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-c2053b4c-170f-5872-b47d-2b5303b3b572_1": {
+        "absent": [
+            "hand",
+            "foot"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-c6620c8d-ab93-5c2a-8d01-62170a8da539_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-caada91c-de04-5fa6-90a5-c393a07f2c9f_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-cade0f2b-8f19-5b0b-8b7e-d1d18e7a63e5_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-cd36378a-6aa4-5b4d-b9ca-4c1ae793a3d2_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-ce92ba24-98dc-5625-a7d7-d1d59c7d1e06_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-ce467798-36fa-5ee3-a9e4-06d8f8f2b4fd_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-ced6f344-ec84-5dd3-83f3-f457303a7915_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-d2d298ee-a2bf-5a0c-ae81-26987383accf_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d6ba60f8-2ba3-5288-b49b-a8e688dffe71_1": {
+        "absent": [
+            "hand",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-e1fee52f-190b-51cf-92e5-d2eaf1aa3f6a_1": {
+        "absent": [
+            "hand",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-eb379181-e877-5a66-af34-acf618924299_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-f9f439a3-cc7a-56e6-b3b3-c4f4b1f918c0_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-fe7552e7-c688-5894-80db-2db0854aee75_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-0b0c3a5d-8376-555d-abc3-14925b9167b5_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-0e56fdee-3d7b-594f-8904-a101559e14ca_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-1b4412c5-7f73-5423-a3d2-2d0affc48b3e_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-1e41762e-b832-5108-96b7-443724f6d837_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-1ed2a8c2-2d33-57eb-9f86-b0549dc0fec9_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-1f23a007-9383-502e-97ad-b396a858164c_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-1f37eff6-a0de-5472-91de-5cb053b7f372_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2a41252d-6373-5a80-8d34-56665e4cdeef_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2c4942fd-d71a-525e-9be4-b64529bfe786_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2e503d3e-d8b7-555f-931d-aba30975e8f6_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-3b5b2a9c-1d76-51d0-8ff8-ad304bd17724_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-3c6afb67-3739-543e-9278-4fec09509366_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-4ca30688-a228-5597-99ea-a93711caebfe_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-4e5bbfc5-c138-59c0-8b6c-1c76ef0c4e39_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-4e27b788-bb2e-5268-8ebe-b71dd537123a_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5c8d8b56-9ffa-5227-99fe-a664793ebdb9_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5c44cff2-2dcd-59c3-aa5f-87896fce9809_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-5cc657fc-c4b6-5c3e-a5a3-d1184cee6763_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5d8091ec-1342-5219-9954-66930d129852_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5f29439a-bbfb-5918-92c0-495b0e5e57cf_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-6b287c6b-08b7-5089-9962-6891e43c0bc1_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-6c9f3742-d1cf-5eb1-b147-ee5c8c67e996_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-6de6af69-456d-537c-8126-184a98fe8240_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-6f1ca95a-904e-5abe-8fcd-70b337891982_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-7accbb9e-678e-52a9-b1bc-1024f42d6d63_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-7bdc6863-e72f-525c-b8a0-5517b76321fb_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-7fbcfc1b-92b0-5023-b9c8-ef0daf203cec_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-8ad5946c-c7d4-5b6c-af30-b750839bbc22_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-8c0e1df0-f03e-576a-a76b-c144124b1737_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-8c52f686-cc02-59d1-a250-af8a1ebe52c9_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-0d1e07a9-5a7e-50ef-ac9d-9f2dac4bf48e_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0d9edc12-abd1-544e-9326-48631283a316_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-0dff3b5b-bf71-5e86-86f0-6dde59325e3d_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-1a8136fe-2e1e-5c11-b7ba-c35f11498268_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-1aa96228-baac-518b-9b47-09d6e9d8aaa9_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-1caa08fb-1805-50ee-8d2b-a48422e09441_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-1dae203f-4063-53d5-afaa-f95b9cf02252_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-1f2aba10-8bba-56c2-aa7b-c5b7f27d9d10_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2b59a08e-10f9-59ed-94bb-c630e8b2f54d_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-02bc1283-a1b4-5e43-9a4c-bcd609438cb9_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-2d856caf-738c-50af-a860-d8fd5065f19c_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2e218fb0-8f45-5546-960f-d0c34a7baaef_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-2e456371-e4ea-5dc4-b666-71cf9ff4bc0f_1": {
+        "absent": [
+        ],
+        "redundant": []
+    },
+    "pika-2efc9a1b-4617-5733-9d2b-3b9b6f16e94f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-3aad80a6-7d8a-587a-a226-7782104dcdda_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-3b148470-a08f-566a-a94a-691e0f2a21a0_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-3ba09d9b-c589-5d2b-a95c-e18679ddd5ed_1": {
+        "absent": [
+            "foot",
+            "ear"
+        ],
+        "redundant": [
+            "leg"
+        ]
+    },
+    "pika-3da95cbd-3dc1-5f16-970d-486bcd6731ba_1": {
+        "absent": [
+            "hand",
+            "leg"
+        ],
+        "redundant": []
+    },
+    "pika-3ee7814f-8b98-5707-82f0-e7eff15e97ee_1": {
+        "absent": [
+            "arm",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-3f13acba-5c29-5c92-8fad-5621c2ae371b_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-4d0778e4-46d0-55c0-b460-58188d25c196_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-4f04fc1d-db01-5f8e-8a49-d2d767a219b0_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5a538b6a-0337-5d2d-abb2-c0dc5273478e_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0c7a5781-07af-57ce-85cd-54916417916b_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-1afbfecd-4568-5de5-b92a-4f0383b08285_1": {
+        "absent": [],
+        "redundant": [
+            "leg"
+        ]
+    },
+    "pika-1d4d61da-1393-5f7f-8297-892808535c0f_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-1dbe097f-9c02-5bc1-9938-82c970fd4743_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-1f9e45e7-013c-5c5b-89e3-8bdaae885219_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-2a7a2789-5a97-5968-934d-fd73a5a74062_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-2a643ccf-ea84-5488-82df-4a43f6b9c341_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2cc869ab-ccd8-587c-a57a-0666ce23eab1_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-2ce9920d-160a-593e-aa5c-ff6fb7f3cb1b_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-2e737a1f-3fe7-530f-9a31-f7a9b1f13016_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2e9080ae-057f-5eeb-8a54-ba725709b152_1": {
+        "absent": [
+            "leg",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-3b70e42c-d87e-580b-a8be-66cb0bf90a3d_1": {
+        "absent": [
+            "ear",
+            "leg"
+        ],
+        "redundant": []
+    },
+    "pika-3b83ac41-d8fb-581d-8a45-128f42e81480_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5b3fa0f4-74ce-5eac-9f98-1abb90cad1cd_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-5ba50c68-b07f-5141-88a9-b5463b73c2cc_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-5baba24f-80bd-596f-acc6-e5d7b3a76250_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5ddf2510-19e1-57d4-823d-b21aa3345702_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-6a351b79-1fd9-5549-8aa5-254846e6bc46_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-6b099841-3d28-5edf-8b58-6c4bec890bcc_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-7c502386-f218-5ebb-a378-bc237446af1e_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-7f413ab5-51c9-5b48-8802-5e8954e76595_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-7ff66992-af5f-5a08-9d68-329462d9b4bd_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-8c04ef95-c239-521f-b6ac-1f40dc0a94fc_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-8d1a8957-63c7-5777-982f-68f6b6c32a4e_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-8dd81e26-2b6e-5d28-bae6-1b4b04b63397_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-09a97b2a-1f30-5ff7-9ac6-0aca1ab96274_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-9b85d68e-f6bc-5e70-94e6-374553a4327f_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-9ca17ee0-9521-57a1-b72b-a35ca8af0dcd_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-9e2508b4-9e03-5f48-9312-f685a50d5c53_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-9e9489cd-333c-5588-a54d-c266827499a6_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-9f976162-0fa2-5ef6-b558-d61c1ec2ff33_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-17e98758-dd43-5ea6-bbe0-2b5b980e4809_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-19b7e900-437c-518c-abf8-6caee6bf7f6b_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-27a41490-672c-59f1-a190-62e9f237de12_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-29b2d8ac-7e72-5158-a192-a0e0021b2ac9_1": {
+        "absent": [
+            "hand",
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-29e3525c-38f3-557b-88b9-b210b71941fe_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-38ef411c-bc3d-5124-9259-47c03724eb5d_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-43d87fdf-e1f4-5cf2-ae3a-14a62e4914e8_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-47a821cf-f63e-5db5-9b2a-36f7f41e5ff7_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-69e46f55-9497-5a2c-b070-eb5d596a0606_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-73b841fd-d756-559c-8a82-d6605dbcb55f_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-75aa0623-0409-5b50-a4cd-8e7186106f3b_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-77a24057-bb22-5024-bb44-0fe4ea676d71_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-84ad076c-4ff9-56f0-afef-77ac00b43c74_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-85ad50d7-ce65-592b-b9aa-aba12d6e5226_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-87d2713f-0102-55be-aa65-ca555c6411b7_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-96b18cb0-bd9b-5a78-9969-52719ee5a711_1": {
+        "absent": [],
+        "redundant": [
+            "head"
+        ]
+    },
+    "pika-292dc95b-16bb-5357-82dd-b9bfd7766755_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-615e9c05-0915-524f-8d29-a0ae7a874dbb_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-674a6dd0-21aa-5a78-b0c0-33fca0e89ec9_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-0675c907-8920-5eb6-9ea1-6d9f27d7fe87_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-775f251a-b186-50f7-82c6-09a0a0b922b6_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0900b703-460d-58c7-bc55-8608d2b3ac3e_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-2393a257-a2da-56f1-908b-0366b4e4f197_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2958ba93-3b79-5009-969e-f142a7be174e_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-4134f27f-be65-5b2c-8cc7-200694ba16e6_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-4622d6e1-3046-5d84-8796-06bd26698e66_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-5756f352-31eb-518b-806a-f945cd2cd083_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-6064fa5b-70da-5903-a8dc-98104a598551_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-6555d9ac-76d6-56a4-8679-4e30e9eb75c9_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-6655def6-2ebc-5d91-b8f4-e2691083c60f_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-8397f63d-5eba-5648-b859-2c848cc0c2c9_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-9100cf0d-5571-5ae5-9d4f-8c2cbee5c25e_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-35050c88-c894-5beb-a72c-80e28e3e6458_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-089245bd-067b-521c-b52a-2d772ad59812_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-106804e1-e3ca-5bb4-97d8-06dffee2c7a2_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-14471046-aa72-5e27-8a01-d8947d77b96a_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "leg"
+        ]
+    },
+    "pika-a5f2d6e2-375b-5739-820b-5da8bf3cddeb_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-a5011e43-382b-556c-86d8-295bcfdc5550_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-a5396eed-a100-55f8-b970-f34d142a50b8_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-a66290c2-7724-5ed9-817b-a0941d3daa57_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-b4a860ad-b2b5-5aeb-8516-71a056295409_1": {
+        "absent": [],
+        "redundant": [
+            "head"
+        ]
+    },
+    "pika-b8b70b41-b81a-5afd-94a7-31cf295543b4_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-b46d69b9-50d3-53a0-ae4a-65b52d8a9b33_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-b4458329-a66e-5975-ab81-3ea9728103f5_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-ba7b04dc-cc9a-551d-bf2a-d203c2baa131_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-bdc50ebf-7d99-59f8-bb58-99fc66d7547e_1": {
+        "absent": [],
+        "redundant": [
+            "hand",
+            "arm"
+        ]
+    },
+    "pika-c2ed5a4d-d837-5622-ae56-31cfb5550a89_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-c14cac30-b8ec-58b7-ac0e-3a730db5d908_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-c017f12e-c510-575a-87c6-9a49c2f240a0_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-c52cef43-12b8-587a-bb3f-edddf0f43c39_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-c692d289-ff73-5dd5-a303-39125d7e39d2_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-c8148971-1282-5432-82d0-b372821d4a1d_1": {
+        "absent": [
+            "hand",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ca22f5b1-2f36-5ca0-bd7f-2b38281c288a_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-cbda5d38-36e2-5b28-9188-98565297aa64_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-cc5c45a1-e530-5483-ba4b-a425d7e1661a_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-cc64e2a8-b45a-54d8-9373-e9a5d38b1b8c_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-cc4378c8-cea3-5a2a-a448-f0f74ee6f16a_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-cd4ba88d-6ab7-577b-97f9-9a2e3e9a6ab0_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-cdebff21-6016-51a8-931b-e305dd01597d_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-d99a8d95-0ef5-5183-a212-3009a12373a1_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-de06d9b0-c682-5321-9882-c6bb83f3b086_1": {
+        "absent": [
+            "foot",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-de60598f-651c-5495-86e0-39ba7851b430_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-df07eb42-2b92-5802-84fa-725927682531_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-e4a19a9d-e702-58e4-9cf9-413b4a810fa0_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-e18c63cd-1510-503a-946f-c84bae5a2d9c_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-e63d87ec-f3eb-5594-b10e-fc53ad8d5002_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-eb478e64-267f-5bd3-a330-12e4ab0c2fcf_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-ef616833-8425-57d5-87d8-69c04c93b433_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-f8aaf19e-0f7f-508c-a8f3-e09633fd48d3_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-f9adac2c-edc6-5aa6-bc81-29ac0f47ced0_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-f16837df-95f0-553f-bd16-a83119ac1d0f_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-fef42bec-52eb-5fae-af88-9eca92a6ab09_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-0f615495-63e8-503d-8ee1-e5ded1dc20bb_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-5fe38f1e-356a-5b8b-ba9d-760c3d55a723_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-7edb4288-73e1-5473-a8cb-543711a13852_1": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-8a5c7ed0-dd33-58be-85db-83b2017c531d_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-9c358dc5-7192-5c84-ba76-e955e1d82035_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-28c66a03-1524-5632-8790-1745717c98ac_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-89e17e94-b5d6-5b69-907f-01a16a011d42_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-97a93f81-60b4-5b46-b85d-4719a7ed8a54_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-238c5629-0eb3-561d-b118-857b2efe9cd9_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-0603b5e3-4c17-58d3-b786-338aa3ad7240_1": {
+        "absent": [],
+        "redundant": [
+            "ear"
+        ]
+    },
+    "pika-1956f25c-1d8e-51d7-ac21-dd01215982ae_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-6999d857-3854-54a1-bf8f-1a3093b29468_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-b9168dec-d6ae-53b7-869a-7980ba98d3ff_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d25e4b7e-9e0d-55cf-975d-a8dea248783b_1": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-e64a7db9-f6ec-5bef-84b2-265c5fe64792_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-f7f03b99-dad5-53ba-87dc-a91b678a0129_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-8c470c9e-cd40-5994-b4fc-3cb8b912f79d_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-9ec54557-a6ae-5b7d-a808-22751eb0d8aa_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-12ef7c91-1eda-5677-b6c4-2cf72b0f5572_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-36b9937e-a498-5c6c-98a2-dd0502a6dc95_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-49d2d140-0006-5685-803a-99d537d09145_1": {
+        "absent": [],
+        "redundant": [
+            "ear"
+        ]
+    },
+    "pika-77ff8b7f-e186-584d-a7ea-d8a8dca52682_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-83b9de0f-e39f-5dcf-b008-408931307f09_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-89c11973-39c4-5336-a61d-4292d4f9737d_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-244eb0f5-f5c0-5999-abfe-e3aa4bfd7ed7_1": {
+        "absent": [],
+        "redundant": [
+            "foot"
+        ]
+    },
+    "pika-774b341b-8670-57d4-902d-3a6b608f028c_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-980d221a-de7d-5cfb-95ea-ae4b2697c4fb_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": [
+            "head"
+        ]
+    },
+    "pika-90629a03-863d-52fd-a54d-418c441d3d9e_1": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-7276646b-fff9-5851-be7d-bbc710e985ed_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-e66a2a9c-267a-541b-a737-11de904cf12a_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-1c54e0d0-2740-5d09-bea8-05bd5917c028_1": {
+        "absent": [
+            "foot",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-4e7ba9a1-0f6f-5e2e-a076-00ab566adea0_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-6f8aea43-7356-5e69-a779-a6a36d04c7a0_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-7a07d800-f17f-5e81-b905-8dc8d297ee60_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-8e718f78-b5bb-5f89-8ed5-05c0936ad2f7_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-15ece5fe-47c3-5350-a2b1-1a0ef8020513_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-52ecfaf6-06ac-5953-b828-24a9f34373ef_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2427ad3b-7038-5d24-8eaa-b4c5367be5db_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-3802d3ca-5f52-54f3-9201-6923914c6c0f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-66227c2a-20b1-57c3-a375-20650e204b73_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-8470270a-9117-5a37-a75b-81370b134e87_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-a10c542c-0248-5bdc-8841-a6c444e221c6_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-afe6d8c5-d238-5f62-8736-d05724566e5b_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-c976b267-24b8-5cb2-8f38-41e9c5ea03c2_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d79d0a84-bf59-50bc-97e6-28b14c25410f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-f3007edf-a5c1-5fd0-be37-06488912474a_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5c00072e-050e-5928-aea6-9482e5c703e1_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-8f671326-4275-5c7c-82a8-53a66af0f85b_1": {
+        "absent": [],
+        "redundant": [
+            "ear"
+        ]
+    },
+    "pika-9cc88a2f-4287-5e4f-937f-72e3182f6e0a_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-33b83808-e676-51c6-88b8-6857c17e24b4_1": {
+        "absent": [],
+        "redundant": [
+            "leg"
+        ]
+    },
+    "pika-529c8ab8-57ac-58d4-92d7-ae8cbb69d74d_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-1597f261-683e-56a8-8f5c-c00881670ad9_1": {
+        "absent": [
+            "ear",
+            "hand",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-801003c7-b7b1-5bb1-b25f-73d5275cf2ba_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-a2e0827f-18c3-5445-babd-9d1ea50e2b03_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-abdcc694-2bcb-59e9-b621-2d52b98a50f4_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-ac287ba4-1c45-5d6b-b120-94a878a83da0_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ad189921-f1e5-5e98-aca8-40e8250f82e8_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-b1ba9873-f527-5171-b3ce-0db8eea94922_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-b9ea24cf-40a6-5cc3-9558-2b4156beac89_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-c0737546-a4e0-5a8f-b52f-57416827694c_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-cdbb4c16-623b-5b6a-9446-41ec43fa4d0f_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-e1bae451-4920-5e8a-a9b1-2cbc9650dd1c_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-e01ea485-e5eb-566a-ae9e-ae2f95f2cd98_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-e0416a3e-b548-5045-b1db-bca9a343db1d_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-eb6ec273-1dc2-5094-bc53-8e8fc6f654c0_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-ed10c7f5-e48d-52dc-afb8-986d88c53a04_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-fe1c0a2e-1491-5479-a30a-0a27090df09f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0a81e080-19de-562d-9a08-f25899917e31_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0b4934e6-433a-5ccc-8c82-ca13b25fd6e5_1": {
+        "absent": [
+            "ear",
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-0c5c233f-bd15-54aa-99f8-20b3623de95a_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-0f675215-118d-5924-b5aa-0818807a53ad_1": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-1d09ea54-5752-5434-8f7e-a9a3fb0965e2_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-1da25d4c-d2f0-5075-b1db-fbac2eda5efe_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-2e0e905c-6ffb-569e-a7fa-3defbd39a1d8_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-3b9d4662-0789-5977-8b39-706e7cc1ac4d_1": {
+        "absent": [
+            "head",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-3e17c6db-df7a-5e57-932e-5f4c3ad9cae5_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-5caf5773-e904-59bb-9845-a844bef3fac5_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-6ee59d17-2103-56b1-9c10-2d97da5611f5_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-8adf7fa7-2177-5a2d-b618-b33c4937f5b7_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-8d9302c5-24b2-5ce2-a3eb-8e4aa1704668_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-8fdf297b-6d0d-5e1f-ab07-0cb945839c33_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-9b6aeec2-d481-5b5d-804c-e9d90c5bc93e_1": {
+        "absent": [
+            "foot",
+            "leg"
+        ],
+        "redundant": []
+    },
+    "pika-9da2786c-d3ed-527f-9915-803f86c8112b_1": {
+        "absent": [
+            "leg",
+            "foot",
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-24ef0bd4-7867-5c13-a2d4-787759d4d118_1": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-026ba303-82ee-55c7-9fe8-8e7e3b17e6b9_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-56fdccb3-66c9-59a0-8304-88ca7c054dd4_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-64caa93e-62ee-516e-97ba-0246892a52c5_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-089e23a5-9ee9-5f7c-97e2-8dcfa400a736_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-236fdf87-001c-583a-97a0-ecf8d7d455c5_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-590b3f3c-f63a-5af0-99d6-c3966f3795bb_1": {
+        "absent": [],
+        "redundant": [
+            "hand",
+            "arm"
+        ]
+    },
+    "pika-9506f529-f17a-5cae-be32-24253a129e3d_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-f9bf4972-e561-5116-a90e-346b755ea01e_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fba9f800-7ff8-56f9-88db-5c77344e13e2_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fe95ac4d-76fe-5354-becc-55b3398bf057_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-03b8b45f-823d-5aea-845c-4729cc40cd8f_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-3fb5106b-0598-5368-a0cf-79bc71e35e4f_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-7a8c02bc-34bd-5a46-b5e9-e4a9fce24edb_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-07d7142f-ad00-5549-b024-4c23120f3c85_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-8eb6282e-3f7b-5743-8369-27a4801ea5fb_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-9ba8ad2e-a84d-5f29-ba9e-0ca421db5858_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-9c2bc5b1-d6df-58e2-b062-aba29a2bb573_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-18a1e031-2d65-5032-a155-503163b0bd06_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-41d5d159-40df-5f31-8ad2-8b5383552197_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-57b5db3c-a62d-5a2d-9e91-696d977aaff1_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-60d68f80-f606-5f96-8acc-4b9e54dbb933_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "head"
+        ]
+    },
+    "pika-98bd0e6b-ce55-59d8-a831-bc0b00d3458a_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-466a9a93-fe38-53d7-a366-4dc667ac246e_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-777fc8d0-f2f7-504b-a907-4282d657ecda_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-a82a874d-a850-5547-9de4-dede1caff594_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-e98193c5-13ca-54e1-be7a-5e4e24baf5fb_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ead802fa-f844-5332-9a94-68f4b827d56a_1": {
+        "absent": [],
+        "redundant": [
+            "leg",
+            "arm",
+            "hand"
+        ]
+    },
+    "pika-f377f6db-9bef-53c3-966b-084f4fbd19f4_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-f68687c5-608d-55f3-a5ec-bd591d7a8f61_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-000a293e-981b-5b0d-82f1-40734ed3f652_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-1c3469ef-c961-5ae5-a6d6-4aacbeea52fd_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2e12f33a-f838-51fb-9940-0545ad741fde_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-5b4446dc-dfc4-5c80-8906-4cb705f4a1b6_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-5fa600cc-80cc-559b-bc8c-9a37824b967f_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-7bc34872-5572-5e19-a1f8-4df5b383593e_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-7c2b62a5-0523-531c-b5d7-90b10764c17b_1": {
+        "absent": [
+            "leg"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-7e473ebc-de0e-5ff8-bd42-6240cb99579c_1": {
+        "absent": [
+            "hand",
+            "foot",
+            "leg"
+        ],
+        "redundant": []
+    },
+    "pika-7efe46ad-8cc7-5722-beb9-2a80cba8587c_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-8b482eea-e80f-5ee5-85a5-e0b8a59bd6e4_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-8dcd7767-2bd6-5391-83f3-6a28a12431f8_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-11c157b9-f6ca-5e69-a9e3-31d3aecb0039_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-12ef9858-3f42-521e-89a8-08d5b383f180_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-18df65c8-c1cc-5088-83ad-be78b359481b_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-23fcdfe4-c4ba-502c-91a8-51f849a45d29_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-26b7d8c0-cc02-526a-8455-b991f128afe1_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-35dd3305-be51-5efe-a232-0d31516985a9_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-69bf18cc-d76b-5162-8e61-cfc50a162e16_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-80fda3ca-9ad2-57ff-a3eb-c69a7c1eaf5f_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-083eee7a-5ea3-52a9-9c5f-90b6ac0fd802_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-811c4fbc-8fff-52da-9e58-45c50de05fdd_1": {
+        "absent": [
+            "ear",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-1376e6a9-307c-51df-b4a7-c208d8ae919b_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-61680def-1b48-5734-87aa-68429dc19cd3_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-153794c9-465e-5b0a-a2a2-67f00258a62b_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-510564f8-9cdb-548f-aba2-2105fe1ca4c9_1": {
+        "absent": [],
+        "redundant": [
+            "ear"
+        ]
+    },
+    "pika-31700619-9bbe-5b87-9695-9e4c6c0fcf47_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ab0c3915-de39-58e3-b5a5-92d8a2ddcee6_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-ac6ecf75-e5ec-558b-8646-5d50653c83dd_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-c6d9b648-d7c1-57aa-822c-ea4a03cabfec_1": {
+        "absent": [
+            "hand",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-cedb4666-445a-5763-8823-a353e429fdf5_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-d37b4d4d-3c78-5afe-9256-008f0689c997_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-fd04dac3-1abe-5ae7-8b0f-a4ab97f851f4_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fdf6db69-e459-5a48-9155-c52b9c00bd96_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-0aa5b8cc-f235-5cbc-9fdf-7f10b290ff30_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-0bce7ecb-e7a7-5599-b08c-6866f7907b7c_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-01c080ea-941e-53c2-9a8e-dd7c33aeadb9_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-2b36b366-3426-5548-afab-6ad2b7a99112_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2cb42ebf-94bb-5176-8608-1f02654c0cb0_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2d18d911-f21c-5ffc-a159-d9539e45fe28_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-2e16f65e-01e9-512a-b706-2242b1767b06_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-3b03e0d2-a845-5d2a-a5c2-6f54b87db247_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-3d5c29fb-5867-5549-b7b1-694ac8644a94_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-4b045c47-ca6c-5862-b1b7-3892f4ddcbe2_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-5a3ad14a-7f28-5646-8348-1772f1d3c3b0_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-8db95fff-e9e7-5519-9e1c-2967950a1f3c_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-9fa8cb77-4b0d-5a82-bfb2-9eecfd7f4487_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-27a35887-f2d2-5017-9aac-d5dc1a1d3a72_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-44cc6be2-f190-5262-810f-433c0f881dbe_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-78ad27d3-bb42-5d39-8ef5-b26c55d0f621_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-89a75e08-d491-59e0-9543-11e04d27470b_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-345b615c-d2f5-5e8f-9c1c-cb70359eeceb_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-0354d1d3-2ea5-5f9c-98d9-5e8b011d38c7_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-3487d80c-d429-5dcf-a686-245a6593d5c0_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-5450be29-63e8-5b14-a640-4254301c4238_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-8161b079-87c8-57f9-b670-d912bd68b687_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-74896eb6-b645-5321-9f65-3df8e7b95da0_1": {
+        "absent": [
+            "ear",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-244339ec-3320-5df0-8654-88d0c4226e53_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-256249da-42e1-5a2c-9a72-c3e0af0f7993_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-90349904-49dd-5e23-b5d6-e6166e0329b1_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-a1dc9e2f-61b1-5af9-ac1d-b5e74440b5fa_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-a28b5bb2-ca11-55fb-a59e-ee88365f0b3e_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-a33f5cdf-1997-585b-9c5d-5362eed7599f_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-a467a3a9-6536-5a2e-b886-5e27fdd0b21e_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-a9142457-26b8-5ba5-b440-6cc2ade9d043_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-aa20489a-b554-5bf0-bf3f-7e89874698f9_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ab7f9b2f-fb44-56d4-8231-325190a7bf19_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-ab42d21b-19f7-5d48-a3bf-0cf40144c727_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ae8b00a9-f4bb-58aa-91de-d08413083bef_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-bf0ce134-0a8c-5453-897d-92882df86f12_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-c9c80032-39d4-5ea2-89c4-8ed7f1dad6f0_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-c4631c6e-4fb7-53db-bfac-513289b38408_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ca65a82a-bf26-5580-a900-0870d1c38fd8_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-ca626aea-0d34-599d-b3c3-11328e1e4695_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-ce855190-0298-5a25-850c-92d80c86c9ef_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-d8aff92e-ee20-55ff-a964-dc008805794f_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-d75b66f0-da63-5fc8-8941-1cd5b88d2a2b_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-dad24585-9cde-5879-87b7-d4f4627c7f79_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-dadb75e7-b79c-58d4-934c-70227a72c647_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-e8f083f2-cc51-5acb-bb3c-b57afb113fe9_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-ee639d6a-da53-54b3-a3c7-6e3d8ceea370_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-f4cb5c19-f336-5bce-8f58-74f984bf2c80_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-f6e56768-51f9-5d86-860a-61ef8718a2fd_1": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-f07c34f4-cbaf-5f8c-9644-57392c7631cb_1": {
+        "absent": [
+            "arm",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-f91b61df-d276-5942-ae12-13d73e769b16_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-f148a9cd-0a34-52ff-be2f-569cfc4e7355_1": {
+        "absent": [
+            "hand",
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-f206e87d-a47f-5a78-a92b-5c4f7b5e6bad_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fba77964-5e8c-59df-b4a2-a4fb01651f44_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-2d53d536-6ca8-53f2-b75e-86b152302fc2_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-4b89e3e0-1750-5ac5-934d-d38a20c9678d_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-5af2e2d4-33d2-5b2e-8bd2-d700105c85a0_1": {
+        "absent": [
+            "foot",
+            "hand"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-5da08237-5375-5729-8243-5d7d917f6e04_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-5dc4b502-d98c-54e9-a361-f1ac6f684114_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-6d0960e3-9e4a-5124-8c65-257a46c11916_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-7e99328a-c3ef-5699-9f56-9dd8f7112bb1_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-8a341048-7ad5-5d5f-a953-d7fb026cca49_1": {
+        "absent": [
+            "arm",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-9ea9e4a4-c0eb-5bd0-9fad-022d6e2df96a_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-52ad913f-0987-5dbe-9cbb-85ade9fe3fb3_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-76f6980a-574c-5e72-a6e5-6bfce743a74f_1": {
+        "absent": [
+            "ear",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-82c43e5e-08ff-5a8d-bdd8-c3cd1c79f4ff_1": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-83c9ac4e-fac8-5b38-b9d2-925947b248e8_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-89f87475-7c73-57d1-b968-3d14670d2e65_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-93d7f89e-2036-5fcb-afc9-b8288868f999_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-94d960a5-f619-5072-bb62-24f59544006b_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-170d2c11-1312-5545-8b09-822d813d1761_1": {
+        "absent": [],
+        "redundant": [
+            "head"
+        ]
+    },
+    "pika-503d46cb-c696-5b8f-a63f-2123caadccb1_1": {
+        "absent": [
+            "hand",
+            "arm",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-906dbd9f-faa4-5124-8381-0994948da411_1": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-4558ca10-19b6-5049-a85f-6ef14ebf845e_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-05737b55-d5dc-5634-b680-814fda19f402_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-7304f7b8-bad9-5a18-ae58-cf27cc234745_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-07339ecb-008b-5a24-b025-b810ae557cf0_1": {
+        "absent": [
+            "leg"
+        ],
+        "redundant": []
+    },
+    "pika-76108a70-3200-589a-9770-5e41431cc6ba_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-af9faea1-1511-5621-9b59-1613198bc6fa_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-b0fad65a-1882-5e57-a32d-3f8c1d3ad170_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-b8d86d77-8a09-5daa-80f6-84b65537df38_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-c9f5edd3-6f7d-58bd-9422-ed034b4a15f7_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-d45c5814-818d-54ab-94c5-34d78402bf97_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-e8bf7671-8fed-5f40-9d9c-56587b45a77e_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-e89254c8-42ff-5b1d-95d5-d5562135e688_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-fdef1797-b241-56f8-a48a-486aa4227a7f_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-0b6a83c8-8596-5823-b412-755719923ede_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-1cb16fef-6ee8-5536-b0f4-312560625fcd_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-2b8b1603-34ac-58cd-8983-f331d1f4fc92_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-2e57537d-d775-5a11-a9d0-6033f2bbfc6f_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-2ef82d6b-c0b2-54e3-a49b-0cc496a44bce_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-4e59fbee-313e-588a-b7ae-e8a7aeb602a3_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-05df9654-e0b6-5696-ae9f-60ec202ff893_1": {
+        "absent": [],
+        "redundant": [
+            "ear"
+        ]
+    },
+    "pika-6ab612bb-8098-5a64-b4f1-c3935dfe1718_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-6b567cd8-1fbc-5911-a840-3cdff02c645b_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-6e014aa4-1c40-5ca8-ba7c-b483c3ecde62_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-fa73dd4e-5359-5575-944a-c40e0845293c_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-fa0f5b34-2f5b-5f09-8d1e-d1428cf75d3f_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-7cc518d1-c1ee-5e6d-bf41-7224ecee6460_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-8c9f09ff-179f-5126-9da2-6882df4e8069_1": {
+        "absent": [
+            "arm",
+            "hand",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-9f2b797a-0f96-58a5-8328-603969269809_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-f4b4c4d2-498d-5823-a0ae-7683e05b105f_1": {
+        "absent": [],
+        "redundant": [
+            "leg"
+        ]
+    },
+    "pika-09fc3750-5cbe-505f-8a54-cd867998e8dd_1": {
+        "absent": [],
+        "redundant": [
+            "arm",
+            "hand"
+        ]
+    },
+    "pika-10efe5ab-3142-5f2b-af4d-aa27e6e1b4ad_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-efd0817c-410e-54f7-b40c-e243cb72681a_1": {
+        "absent": [],
+        "redundant": [
+            "leg"
+        ]
+    },
+    "pika-12e1a6df-6768-51bd-ae78-c5e67ccc18ca_1": {
+        "absent": [
+            "hand",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-ed71a596-ea0d-532d-be24-70252210c034_1": {
+        "absent": [
+            "foot",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-e9522007-eaed-594b-9d75-d2870ab8ca94_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-25a96a44-6a84-531b-8146-bc31607c3aba_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-25f8f0ca-5b14-5fad-857d-bc248ec9d516_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-42e29a9e-964f-5035-b103-0cf5c93bc259_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-e0cfe60a-f0db-50a4-a38c-17e46a653ebf_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-ded6bf92-ae43-5c66-b78b-3bef75ee2e60_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-79f4209e-7770-5288-b7f3-6db58b1814ac_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-84d5af11-326e-5c98-be71-7c1943387477_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-de4b2655-033a-546c-8532-9dd8be9349dc_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-99bb2ef4-5540-5580-8a52-ceb4a7b3a72d_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-d72252eb-5b7e-5081-9de5-7ca9d06dd92a_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-420d19e0-f4bb-58d5-95dc-5539ad4f6a54_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-581dcc97-d09a-53ce-8516-187a887ac828_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-d1bd8bdb-c9ad-5fdd-81ce-80b1f28651a5_1": {
+        "absent": [
+            "leg"
+        ],
+        "redundant": []
+    },
+    "pika-676d303e-e79b-508e-a5cc-b53f54176fb4_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-d0bf9fb8-0e0f-5ec6-a81f-c5b13f37e823_1": {
+        "absent": [],
+        "redundant": [
+            "hand",
+            "leg"
+        ]
+    },
+    "pika-846e22bc-0dd8-533e-b781-f627c6c4a3f2_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-cdad2b3d-2d67-5349-bf1a-47e8a6b407aa_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-915c61e1-2fcd-5733-948c-5fe09254c095_1": {
+        "absent": [
+            "head"
+        ],
+        "redundant": []
+    },
+    "pika-ca2362af-294c-5030-a87b-b41fc5bd8904_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-3562ab48-e5ca-5b3b-ad8a-2fb1ea240c5e_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-c8a09897-1635-51fd-847a-409889cb6fa1_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-6789b225-5adc-5974-99d4-81b3ebcc7148_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-a6d575dd-5e87-5326-bdac-d2b2bd3b3869_1": {
+        "absent": [
+            "arm"
+        ],
+        "redundant": []
+    },
+    "pika-a20f85d9-92cc-53f9-9eaf-03235798e1be_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-1c6ad00f-0c12-5d74-a979-a9d049b61d0d_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-2dcd3c54-e4c8-545c-b164-2b31b506921a_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-3c041c05-b13f-5ab4-b072-7ec3ef4f7211_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-4c7547e6-515d-53d4-bd10-b8afc236ec90_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": [
+            "foot"
+        ]
+    },
+    "pika-f3a9898e-cacd-54b8-938b-5baa5b29a0ec_1": {
+        "absent": [],
+        "redundant": [
+            "ear"
+        ]
+    },
+    "pika-4e2c4ab5-9a04-53d3-a5be-a33264dcd720_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-7e26f630-2bdf-50b4-85b8-d303426f0b84_1": {
+        "absent": [],
+        "redundant": [
+            "hand"
+        ]
+    },
+    "pika-e152936a-0f7b-5542-b8de-7b058a84412c_1": {
+        "absent": [
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-8ab71cda-8db4-5dd1-a0a1-08fcd5876374_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-8ae38192-1b36-5b34-83cb-b7e4c8b8db7f_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-e35e8a7e-7e57-565a-89cf-47faddafb375_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-e4ea23a3-2ca3-51be-a3c0-9538cf88d866_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-9dae1ff7-1bcd-5221-ac92-89b73d57a455_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-de4efc94-cbca-5020-b391-bcdccce12877_1": {
+        "absent": [
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-dd7b2e5c-160f-5871-94f5-02386c0ba3c8_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-d9471946-84bb-5ab5-9360-999b3d07bbf2_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-d047127f-ba29-55de-b1f4-cfac634de2fe_1": {
+        "absent": [
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-d3668c90-a2b0-5f7c-a26e-c662c4121035_1": {
+        "absent": [
+            "leg",
+            "foot"
+        ],
+        "redundant": []
+    },
+    "pika-57af592c-bff3-5676-bb92-23849f2cf323_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-69b5f558-2e85-5668-bc9f-603a9247ca93_1": {
+        "absent": [
+            "arm",
+            "hand"
+        ],
+        "redundant": []
+    },
+    "pika-bd949b93-37e7-5a98-952b-8c9f5e02beaf_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-ab75eeb3-2b71-5a9c-a635-f7dc2153fa27_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-7601af9c-5176-5b78-a556-560df538cf46_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-aa93fbd8-fd08-552e-a8d1-e242303f23e1_1": {
+        "absent": [],
+        "redundant": []
+    },
+    "pika-2074122e-89c3-5be2-98aa-8cec26357d27_1": {
+        "absent": [
+            "arm",
+            "ear"
+        ],
+        "redundant": []
+    },
+    "pika-07391645-cb86-5475-9874-18190cfbf8b3_1": {
+        "absent": [],
+        "redundant": [
+            "arm"
+        ]
+    },
+    "pika-485409f2-038a-5854-9b93-298a363e6dde_1": {
+        "absent": [],
+        "redundant": []
+    }
+}
