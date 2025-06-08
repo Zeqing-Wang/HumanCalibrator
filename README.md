@@ -51,10 +51,11 @@ The ckpt and the training log of our AHD, trained based on LLaVa1.5 7B, can be d
 If you find the repo useful for your work, please star this repo and consider citing:
 
 ```
-@article{wang2024generated,
-  title={Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body},
+@inproceedings{wang2025generated,
+  title={Is this generated person existed in real-world? fine-grained detecting and calibrating abnormal human-body},
   author={Wang, Zeqing and Ma, Qingyang and Wan, Wentao and Li, Haojie and Wang, Keze and Tian, Yonghong},
-  journal={arXiv preprint arXiv:2411.14205},
-  year={2024}
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={21226--21237},
+  year={2025}
 }
 ```
